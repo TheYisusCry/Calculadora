@@ -45,3 +45,4 @@ def main():
         else:
             print("Opción no válida. Intente de nuevo.")
 
+main()
