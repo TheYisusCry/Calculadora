@@ -1,5 +1,5 @@
-import calculadora
-import operaciones
+from calculadora import *
+from operaciones import *
 
 def main():
     while True:
